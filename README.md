@@ -7,28 +7,19 @@
   <h4>🛡️ Cybersecurity Enthusiast | SOC Analyst Intern | AI Integration 🤖</h4>
   <br/>
   
-  <a href="https://github.com/aldiputraa">
+ <a href="https://github.com/aldiputraa">
     <img src="https://komarev.com/ghpvc/?username=aldiputraa&color=blueviolet" alt="Profile Views" />
   </a>
   <a href="https://github.com/aldiputraa?tab=followers">
     <img src="https://img.shields.io/github/followers/aldiputraa?style=social" alt="GitHub Followers" />
   </a>
+  <br/><br/>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=aldiputraa&show_icons=true&theme=radical&border_radius=10&hide_border=true&cache_seconds=0" height="160" alt="Github Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldiputraa&theme=radical&border_radius=10&hide_border=true" height="160" alt="Streak Stats" />
+  </p>
 </div>
-
-<br/>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=aldiputraa&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="160" alt="Aldi's Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldiputraa&theme=radical&border_radius=10&hide_border=true" height="160" alt="Aldi's Streak" />
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <div align="center">
   <h3>🚀 Projects</h3>
