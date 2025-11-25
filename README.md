@@ -13,11 +13,20 @@
   <a href="https://github.com/aldiputraa?tab=followers">
     <img src="https://img.shields.io/github/followers/aldiputraa?style=social" alt="GitHub Followers" />
   </a>
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aldiputraa&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldiputraa&theme=radical&border_radius=10&hide_border=true" height="160"/>
 </div>
+
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=aldiputraa&show_icons=true&theme=radical&border_radius=10&hide_border=true" height="160" alt="Aldi's Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldiputraa&theme=radical&border_radius=10&hide_border=true" height="160" alt="Aldi's Streak" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -26,9 +35,10 @@
 
   <h4>🔥 Featured Project (Final Year Project)</h4>
   <a href="https://github.com/aldiputraa/Pentest-AI-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aldiputraa&repo=Pentest-AI&theme=radical&border_radius=10&hide_border=true" alt="Pentest-AI" />
+    <img src="https://img.shields.io/badge/PROJECT-PENTEST_AI_WITH_LLM-blue?style=for-the-badge&logo=google-gemini&logoColor=white" height="60" alt="Pentest-AI-" />
   </a>
-  <br/><br/>
+  <p><i>Automated Penetration Testing Tool Integrated with Gemini LLM</i></p>
+  <br/>
 
   <h4>💻 Web Development</h4>
   <a href="https://github.com/aldiputraa/WEB_PORTOFOLIO_FITRA-PUTRA-ALDI-WIJAYA">
