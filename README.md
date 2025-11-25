@@ -25,7 +25,7 @@
   <h3>🚀 Projects</h3>
 
   <h4>🔥 Featured Project (Final Year Project)</h4>
-  <a href="https://github.com/aldiputraa/Pentest-AI">
+  <a href="https://github.com/aldiputraa/Pentest-AI-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aldiputraa&repo=Pentest-AI&theme=radical&border_radius=10&hide_border=true" alt="Pentest-AI" />
   </a>
   <br/><br/>
