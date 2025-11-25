@@ -7,7 +7,7 @@
   <h4>🛡️ Cybersecurity Enthusiast | SOC Analyst Intern | AI Integration 🤖</h4>
   <br/>
   
- <a href="https://github.com/aldiputraa">
+<a href="https://github.com/aldiputraa">
     <img src="https://komarev.com/ghpvc/?username=aldiputraa&color=blueviolet" alt="Profile Views" />
   </a>
   <a href="https://github.com/aldiputraa?tab=followers">
@@ -15,9 +15,13 @@
   </a>
   <br/><br/>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=aldiputraa&show_icons=true&theme=radical&border_radius=10&hide_border=true&cache_seconds=0" height="160" alt="Github Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldiputraa&theme=radical&border_radius=10&hide_border=true" height="160" alt="Streak Stats" />
+  <p align="center">
+    <a href="https://github.com/aldiputraa">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiputraa&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+    </a>
+    <a href="https://github.com/aldiputraa">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldiputraa&theme=radical&border_radius=10&hide_border=true" height="160" alt="Streak Stats" />
+    </a>
   </p>
 </div>
 
@@ -28,7 +32,7 @@
   <a href="https://github.com/aldiputraa/Pentest-AI-">
     <img src="https://img.shields.io/badge/PROJECT-PENTEST_AI_WITH_LLM-blue?style=for-the-badge&logo=google-gemini&logoColor=white" height="60" alt="Pentest-AI-" />
   </a>
-  <p><i>Automated Penetration Testing Tool Integrated with Gemini LLM</i></p>
+  <p><i> Penetration Testing Tool Integrated with Gemini LLM</i></p>
   <br/>
 
   <h4>💻 Web Development</h4>
