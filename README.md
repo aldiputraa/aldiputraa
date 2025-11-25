@@ -20,10 +20,9 @@
 <h3 align="center">🚀 Projects</h3>
 
 <div align="center">
-  <h4>🔥 Featured Project (Final Year Project)</h4>
-  
-  [![Pentest-AI](https://github-readme-stats.vercel.app/api/pin/?username=aldiputraa&repo=Pentest-AI-&theme=radical&border_radius=10&hide_border=true)](https://github.com/aldiputraa/Pentest-AI-)
-  
+  <h4>🔥 Featured Project (Final Year Project)</h4>
+  
+  [![Pentest-AI](https://github-readme-stats.vercel.app/api/pin/?username=aldiputraa&repo=Pentest-AI&theme=radical&border_radius=10&hide_border=true)](https://github.com/aldiputraa/Pentest-AI)
   <h4>💻 Web Development</h4>
   
   [![Web Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=aldiputraa&repo=WEB_PORTOFOLIO_FITRA-PUTRA-ALDI-WIJAYA&theme=radical&border_radius=10&hide_border=true)](https://github.com/aldiputraa/WEB_PORTOFOLIO_FITRA-PUTRA-ALDI-WIJAYA)
